@@ -18,7 +18,7 @@ dependencies {
     implementation 'org.springframework.boot:spring-boot-starter'
     testImplementation 'org.springframework.boot:spring-boot-starter-test'
     implementation("org.liquibase:liquibase-core")
-    implementation 'mysql:mysql-connector-java:8.0.30'
+    implementation 'mysql:mysql-connector-java:8.0.303'
     implementation("org.springframework.boot:spring-boot-starter-data-jdbc")
     implementation 'org.springframework.boot:spring-boot-starter-web'
     implementation group: 'org.springframework.boot', name: 'spring-boot-starter-data-jpa'
